@@ -31,5 +31,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTejaGattu1&layout=compact&count_private=true&theme=gruvbox" />
 
