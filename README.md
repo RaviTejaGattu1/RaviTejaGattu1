@@ -31,6 +31,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Visitor Count](https://profile-counter.glitch.me/RaviTejaGattu1/count.svg)
-
+[![RT's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RaviTejaGattu1&layout=compact)](https://github.com/RaviTejaGattu1/github-readme-stats)
 
