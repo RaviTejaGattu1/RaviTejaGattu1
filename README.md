@@ -2,6 +2,7 @@
 **`🧑🏻‍💻 Software Engineer`**
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ravi Teja, passionate about software development & data analysis.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iravitejag/)](https://www.linkedin.com/in/iravitejag/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raviteja.gattu@sjsu.edu)](mailto:raviteja.gattu@sjsu.edu)
 
